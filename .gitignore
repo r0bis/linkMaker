@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# files in output and data directories
+output/**
+data/**
+
+!data/idListIn.csv
